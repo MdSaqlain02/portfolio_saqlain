@@ -1,4 +1,4 @@
-# 💼 Mohammed Saqlain – Developer Portfolio
+# 💼 Mohammed Saqlain – Portfolio
 
 Welcome to my personal portfolio!  
 This website highlights my background, skills, and hands-on projects in full-stack and cloud technologies.
