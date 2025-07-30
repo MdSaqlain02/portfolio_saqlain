@@ -8,7 +8,7 @@ This website highlights my background, skills, and hands-on projects in full-sta
 ## 🌐 Live Site
 
 🔗 [Visit Portfolio](https://mdsaqlain02.github.io/portfolio_saqlain)  
-📄 [Download Resume (PDF)](https://drive.google.com/file/d/1EnOCoS4aqFizJykwvlmI3fpY20HUUHRT/view?usp=sharing)
+📄 [Download Resume (PDF)](https://drive.google.com/file/d/12juKjcDNMH6N02o-x5TxbYBpNr5HjxJC/view?usp=sharing)
 
 ---
 
