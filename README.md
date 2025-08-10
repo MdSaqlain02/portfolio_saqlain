@@ -73,7 +73,7 @@ My personal website that includes project showcases, contact info, resume, and d
 
 ## 📫 Contact
 
-- 📧 Email: [shaikhsaqlain2003@gmail.com](mailto:shaikhsaqlain2003@gmail.com)
+- 📧 Email: [saqlainmohammed005@gmail.com](mailto:saqlainmohammed005@gmail.com)
 - 📞 Phone: [+91-8792172070](tel:+918792172070)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mohammedSaqlain-Dev)
 - 🐙 [GitHub](https://github.com/MdSaqlain02)
